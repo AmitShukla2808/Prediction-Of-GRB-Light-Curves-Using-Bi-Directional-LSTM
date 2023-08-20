@@ -8,6 +8,6 @@ This repository holds the source code for predicting missing points of GRB Light
 
 # Results In Comparison To Other Algorithms
 
-![image (1)](https://github.com/AmitShukla2808/Prediction-Of-GRB-Light-Curves-Using-Bi-Directional-LSTM/assets/77337715/3bb00f8d-38fc-4b14-9847-b93b3096c5b1)
-
 ![image (2)](https://github.com/AmitShukla2808/Prediction-Of-GRB-Light-Curves-Using-Bi-Directional-LSTM/assets/77337715/7c8246e2-2303-4fb2-8ac5-c0637d5a9b3c)
+
+![image (1)](https://github.com/AmitShukla2808/Prediction-Of-GRB-Light-Curves-Using-Bi-Directional-LSTM/assets/77337715/3bb00f8d-38fc-4b14-9847-b93b3096c5b1)
