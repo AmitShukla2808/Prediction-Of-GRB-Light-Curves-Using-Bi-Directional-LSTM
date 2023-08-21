@@ -15,10 +15,10 @@ This repository holds the source code for predicting missing points of GRB Light
 
 # Sample Plots Generated Using Bi-LSTM Light Curve Reconstruction
 
-![060421 Preds Good GRB](https://github.com/AmitShukla2808/Prediction-Of-GRB-Light-Curves-Using-Bi-Directional-LSTM/assets/77337715/b25ad8ee-b185-4837-ad23-32d046ebc5e6)
+![050607 Light Curve Reconstruction](https://github.com/AmitShukla2808/Prediction-Of-GRB-Light-Curves-Using-Bi-Directional-LSTM/blob/main/Reconstructed%20GRB%20Light%20Curves/050607.png)
 
-![141221A Preds](https://github.com/AmitShukla2808/Prediction-Of-GRB-Light-Curves-Using-Bi-Directional-LSTM/assets/77337715/774e166c-8095-44b8-b551-1611dd463c5c)
+![050803 Light Curve Reconstruction](https://github.com/AmitShukla2808/Prediction-Of-GRB-Light-Curves-Using-Bi-Directional-LSTM/blob/main/Reconstructed%20GRB%20Light%20Curves/050803.png)
 
-![150817A Preds](https://github.com/AmitShukla2808/Prediction-Of-GRB-Light-Curves-Using-Bi-Directional-LSTM/assets/77337715/ea995727-200f-4738-9237-68bd35b54a14)
+![140709A Light Curve Reconstruction](https://github.com/AmitShukla2808/Prediction-Of-GRB-Light-Curves-Using-Bi-Directional-LSTM/blob/main/Reconstructed%20GRB%20Light%20Curves/140709A.png)
 
 
