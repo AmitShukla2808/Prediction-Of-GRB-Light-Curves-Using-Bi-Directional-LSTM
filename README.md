@@ -3,7 +3,7 @@ This repository holds the source code for predicting missing points of GRB Light
 
 # Hyperparameters Used And Their Values Achieved Through Experimentation
 
-![Screenshot from 2023-08-20 23-53-16](https://github.com/AmitShukla2808/Prediction-Of-GRB-Light-Curves-Using-Bi-Directional-LSTM/assets/77337715/26f888a5-4169-4b00-be06-90ccbd14efad)
+![Hyperparameters](https://github.com/AmitShukla2808/Prediction-Of-GRB-Light-Curves-Using-Bi-Directional-LSTM/assets/77337715/26f888a5-4169-4b00-be06-90ccbd14efad)
 
 
 
