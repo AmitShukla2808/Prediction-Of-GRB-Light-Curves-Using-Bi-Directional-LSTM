@@ -14,7 +14,7 @@ This repository holds the source code for predicting missing points of GRB Light
 ![Table 3 merged](https://github.com/AmitShukla2808/Prediction-Of-GRB-Light-Curves-Using-Bi-Directional-LSTM/blob/main/Tables/Bi-LSTM%20%2C%20(W07%2CGP)%20and%20(BPL%2CGP).png)
 
 # Error Fraction and % Decrease in uncertainty of flux values for GRBs belonging to Break Bump and Bump Flare Category
-![Table 4](https://github.com/AmitShukla2808/Prediction-Of-GRB-Light-Curves-Using-Bi-Directional-LSTM/blob/main/Tables/Table%204.png)
+![Break Bump and Bump Flare LCR](https://github.com/AmitShukla2808/Prediction-Of-GRB-Light-Curves-Using-Bi-Directional-LSTM/blob/main/Tables/Break%20Bump%20and%20Bump%20Flare%20LCR.png)
 
 
 # Sample Plots Generated Using Bi-LSTM Light Curve Reconstruction
