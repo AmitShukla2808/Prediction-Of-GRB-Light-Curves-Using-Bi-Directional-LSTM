@@ -19,10 +19,10 @@ This repository holds the source code for predicting missing points of GRB Light
 
 # Sample Plots Generated Using Bi-LSTM Light Curve Reconstruction
 
-![050607 Light Curve Reconstruction](https://github.com/AmitShukla2808/Prediction-Of-GRB-Light-Curves-Using-Bi-Directional-LSTM/blob/main/Reconstructed%20GRB%20Light%20Curves/050607.png)
+![Good GRB 050607 LCR](https://github.com/AmitShukla2808/Prediction-Of-GRB-Light-Curves-Using-Bi-Directional-LSTM/blob/main/Reconstructed%20GRB%20Light%20Curves/Good%20GRB%20050607%20LCR.png)
 
-![050803 Light Curve Reconstruction](https://github.com/AmitShukla2808/Prediction-Of-GRB-Light-Curves-Using-Bi-Directional-LSTM/blob/main/Reconstructed%20GRB%20Light%20Curves/050803.png)
+![Break Bump GRB 050803 LCR](https://github.com/AmitShukla2808/Prediction-Of-GRB-Light-Curves-Using-Bi-Directional-LSTM/blob/main/Reconstructed%20GRB%20Light%20Curves/Break%20Bump%20GRB%20050803%20LCR.png)
 
-![140709A Light Curve Reconstruction](https://github.com/AmitShukla2808/Prediction-Of-GRB-Light-Curves-Using-Bi-Directional-LSTM/blob/main/Reconstructed%20GRB%20Light%20Curves/140709A.png)
+![Bump Flare GRB 140709A LCR](https://github.com/AmitShukla2808/Prediction-Of-GRB-Light-Curves-Using-Bi-Directional-LSTM/blob/main/Reconstructed%20GRB%20Light%20Curves/Bump%20Flare%20GRB%20140709A%20LCR.png)
 
 
