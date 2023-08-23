@@ -28,3 +28,5 @@ This repository holds the source code for predicting missing points of GRB Light
 ![Double Break Bump GRB 060219](https://github.com/AmitShukla2808/Prediction-Of-GRB-Light-Curves-Using-Bi-Directional-LSTM/blob/main/Reconstructed%20GRB%20Light%20Curves/060219%20Double%20break.png)
 
 
+# Cleaning Of SWIFT XRT Files
+The source SWIFT XRT files can be directly used in their raw and unprocessed form with the above code. The raw file first undergoes cleaning process by using the swiftxrt_clean module/python script whose source code and implementation has also been given and mentioned in the repository itself. This cleaned file is then fed to the code for further processing.
