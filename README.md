@@ -25,4 +25,6 @@ This repository holds the source code for predicting missing points of GRB Light
 
 ![Bump Flare GRB 140709A LCR](https://github.com/AmitShukla2808/Prediction-Of-GRB-Light-Curves-Using-Bi-Directional-LSTM/blob/main/Reconstructed%20GRB%20Light%20Curves/Bump%20Flare%20GRB%20140709A%20LCR.png)
 
+![Double Break Bump GRB 060219](https://github.com/AmitShukla2808/Prediction-Of-GRB-Light-Curves-Using-Bi-Directional-LSTM/blob/main/Reconstructed%20GRB%20Light%20Curves/060219%20Double%20break.png)
+
 
